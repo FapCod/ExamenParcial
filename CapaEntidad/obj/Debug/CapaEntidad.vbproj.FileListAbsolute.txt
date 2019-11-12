@@ -1,0 +1,8 @@
+D:\ExamenParcial\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\ExamenParcial\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\ExamenParcial\CapaEntidad\bin\Debug\CapaEntidad.xml
+D:\ExamenParcial\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+D:\ExamenParcial\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+D:\ExamenParcial\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\ExamenParcial\CapaEntidad\obj\Debug\CapaEntidad.xml
+D:\ExamenParcial\CapaEntidad\obj\Debug\CapaEntidad.pdb
